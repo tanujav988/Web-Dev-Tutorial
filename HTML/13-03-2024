@@ -1,0 +1,25 @@
+Today's learnings:
+
+1. HTML Page Title
+2. HTML Favicon - A favicon is a small image displayed next to the page title in the browser tab.
+3. HTML Images
+4. HTML Hyperlinks
+-> <a href="mailto:someone@example.com">Send email</a>
+-> <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a> : Link opens in a new tab
+-> <a href="https://www.w3schools.com/" target="_self">Visit W3Schools!</a> : Link opens in the same tab
+
+
+
+
+
+
+
+
+
+
+
+
+Resources:
+https://www.w3schools.com/html/html_page_title.asp
+https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/html/html_links.asp
