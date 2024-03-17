@@ -1,0 +1,26 @@
+Today's learnings:
+
+1. HTML Emojis
+2. HTML Encoding (Character Sets)
+-> The character set is specified in the <meta> tag:
+EX : <meta charset="UTF-8">
+-> The HTML5 specification encourages web developers to use the UTF-8 character set.
+-> UTF-8 covers almost all of the characters and symbols in the world!
+3. HTML Symbols
+4. HTML Iframes - An HTML iframe is used to display a web page within a web page.
+5. HTML Lists
+
+
+
+
+
+
+
+
+
+Websites:
+https://www.w3schools.com/html/html_emojis.asp
+https://www.w3schools.com/html/html_charset.asp
+https://www.w3schools.com/html/html_symbols.asp
+https://www.w3schools.com/html/html_iframe.asp
+https://www.w3schools.com/html/html_lists.asp
